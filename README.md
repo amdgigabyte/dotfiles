@@ -24,3 +24,7 @@ Which support fast config link.
 ## TODO
 
 - [ ] add different platform support(MacOS & Linux)
+
+## For More configuration sync method
+
+- vscode - I use a plugin call Settings Sync
