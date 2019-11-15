@@ -98,4 +98,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias pp="cd ~/Workspace"
-alias dotfiles='/usr/bin/git --git-dir=$HOME/dotfiles --work-tree=$HOME'
+# use stow instead
+# alias dotfiles='/usr/bin/git --git-dir=$HOME/dotfiles --work-tree=$HOME'
